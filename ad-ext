@@ -1,0 +1,46 @@
+# 本碎片只包含常见广告关键字、广告联盟。无副作用，放心使用
+# REJECT 策略
+
+# 广告关键词
+DOMAIN-KEYWORD,admarvel
+DOMAIN-KEYWORD,admaster
+DOMAIN-KEYWORD,adsage
+DOMAIN-KEYWORD,adsensor
+DOMAIN-KEYWORD,adservice
+DOMAIN-KEYWORD,adsmogo
+DOMAIN-KEYWORD,adsrvmedia
+DOMAIN-KEYWORD,adsserving
+DOMAIN-KEYWORD,adsystem
+DOMAIN-KEYWORD,adwords
+DOMAIN-KEYWORD,analysis
+DOMAIN-KEYWORD,applovin
+DOMAIN-KEYWORD,appsflyer
+DOMAIN-KEYWORD,domob
+DOMAIN-KEYWORD,duomeng
+DOMAIN-KEYWORD,dwtrack
+DOMAIN-KEYWORD,guanggao
+DOMAIN-KEYWORD,omgmta
+DOMAIN-KEYWORD,omniture
+DOMAIN-KEYWORD,partnerad
+DOMAIN-KEYWORD,pingfore
+DOMAIN-KEYWORD,socdm
+DOMAIN-KEYWORD,supersonicads
+DOMAIN-KEYWORD,wlmonitor
+DOMAIN-KEYWORD,zjtoolbar
+
+# 广告域名
+DOMAIN-SUFFIX,mintegral.com
+DOMAIN-SUFFIX,ironcladmemory.pro
+DOMAIN-SUFFIX,ironerrooser.com
+DOMAIN-SUFFIX,ironerswhse.digital
+DOMAIN-SUFFIX,ironicfolks.com
+DOMAIN-SUFFIX,ironthro5man.com
+DOMAIN-SUFFIX,ironthro5man.com
+DOMAIN-SUFFIX,adservice.google.com
+DOMAIN-SUFFIX,adservice.google.com.mt
+DOMAIN-SUFFIX,google-analytics.com
+DOMAIN-SUFFIX,googleadservices.com
+DOMAIN-SUFFIX,googleanalytics.com
+DOMAIN-SUFFIX,googlesyndication.com
+DOMAIN-SUFFIX,googletagmanager.com
+DOMAIN-SUFFIX,googletagservices.com
