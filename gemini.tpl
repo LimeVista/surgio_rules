@@ -1,4 +1,4 @@
-{% macro main(proxy_rule, direct_rule) %}
+{% macro main(proxy_rule) %}
 
 DOMAIN-SUFFIX,gemini.google.com,{{ proxy_rule }}
 
